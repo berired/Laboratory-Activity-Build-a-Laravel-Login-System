@@ -1,7 +1,7 @@
 # Activity 6 - Dynamic Web Programming
 
 ## Project Description
-This project is a Laravel-based web application developed for Activity 6 in Dynamic Web Programming. It demonstrates core authentication workflows using a retail-style interface, including user registration, login, protected dashboard access, and logout.
+This project is a Laravel-based web application developed for Activity 5 in Dynamic Web Programming. It demonstrates core authentication workflows using a retail-style interface, including user registration, login, protected dashboard access, and logout.
 
 ## Tech Stack
 - PHP
